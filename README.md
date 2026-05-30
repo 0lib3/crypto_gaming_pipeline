@@ -98,6 +98,7 @@ If a token economy is desired by a game studio, they should anchor it to more we
 - `NULLIF()` - safe division throughout
 
 ## Dashboard
+![Metabase Dashboard](metabase_dashboard.png)
 
 ## Author
 Olive Belcher - www.linkedin.com/in/olive-belcher-37704820a - olivebel04@gmail.com
